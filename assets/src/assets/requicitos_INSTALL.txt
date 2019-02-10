@@ -1,0 +1,13 @@
+
+> npm install --save express
+
+> npm install --save-dev nodemon
+  * Agregar "start:server": "nodemon server.js"
+
+/* middleware which we can lock into our express app
+    that will automatically extract incoming request data and
+      add it as a new field to the request object on whick
+      we can then conveniently access it to do that*/
+> npm install --save body-parser
+
+> npm install --save mongodb
