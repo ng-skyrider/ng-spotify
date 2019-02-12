@@ -1,6 +1,6 @@
 ## *https://ng-skyrider.github.io/ng-spotify/*
 
-###ng-Spotify
+### ng-Spotify
 
 - Code condition Filter: filter url of a image, converter in a URL safe of a links extern;
 - Artist component: view title, type album, album and a list track [(more info)](https://developer.spotify.com/console/tracks/)
@@ -10,17 +10,28 @@
 - Add nav view interactive (in part select, active and hover colors).
 - Add Component: navbar, home and search.
 
-###Help
-- `$ ng new ng-spotify`
-- `$ ng g c shared/navbar --spec=false`
-- `$ ng g c components/search --spec=false`
-- `$ ng g c components/home --spec=false `
-- `$ ng g s services/spotify --spec=false `
-- `$ ng g c components/artist --spec=false`
-- `$ ng g c components/list-card --spec=false`
-- `$ ng g p pipes/noHasImage --spec=false`
-- `$ ng g c components/error --spec=false`
+### Help
+`$ ng new ng-spotify`
+`$ ng g c shared/navbar --spec=false`
+`$ ng g c components/search --spec=false`
+`$ ng g c components/home --spec=false `
+`$ ng g s services/spotify --spec=false `
+`$ ng g c components/artist --spec=false`
+`$ ng g c components/list-card --spec=false`
+`$ ng g p pipes/noHasImage --spec=false`
+`$ ng g c components/error --spec=false`
 
-####License
+#### License
 
 - view License 3rdpartylicenses.txt
+
+=======
+# Contact
+More contributions and suggestions in the theme to:
+
+* E-mail:  Freddy_ps_3@hotmail.com
+* Twitter: https://twitter.com/Fred_Pizarro
+
+Copyright © 2018-2019 [MIT License](https://github.com/ng-skyrider/ng-spotify/blob/master/LICENSE/) by Fred Pizarro.
+
+**Enjoy!**
