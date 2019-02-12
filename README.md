@@ -11,15 +11,15 @@
 - Add Component: navbar, home and search.
 
 ### Help
-`$ ng new ng-spotify`
-`$ ng g c shared/navbar --spec=false`
-`$ ng g c components/search --spec=false`
-`$ ng g c components/home --spec=false `
-`$ ng g s services/spotify --spec=false `
-`$ ng g c components/artist --spec=false`
-`$ ng g c components/list-card --spec=false`
-`$ ng g p pipes/noHasImage --spec=false`
-`$ ng g c components/error --spec=false`
+- `$ ng new ng-spotify`
+- `$ ng g c shared/navbar --spec=false`
+- `$ ng g c components/search --spec=false`
+- `$ ng g c components/home --spec=false `
+- `$ ng g s services/spotify --spec=false `
+- `$ ng g c components/artist --spec=false`
+- `$ ng g c components/list-card --spec=false`
+- `$ ng g p pipes/noHasImage --spec=false`
+- `$ ng g c components/error --spec=false`
 
 #### License
 
